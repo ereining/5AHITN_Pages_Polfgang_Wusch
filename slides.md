@@ -8,9 +8,9 @@
 
 ## Zitate des Meisters
 
-> Wer zuerst kommt malt zuerst
-> Die 5AHITN hat ein recht auf Bildung
-> Damals bei der Siemens
+> Wer zuerst kommt malt zuerst\
+> Die 5AHITN hat ein recht auf Bildung\
+> Damals bei der Siemens\
 > 64 Megabyte USB-Stick
 
 ---
