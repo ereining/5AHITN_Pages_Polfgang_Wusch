@@ -1,15 +1,17 @@
-# Demo
+# Polfgang Wusch <!-- style ="font-family: 'Comic Sans MS'; color: red" -->
 
 --
 
-## Typography
+## Der Hofmathematiker
 
 ---
 
-## Quotes
+## Zitate des Meisters
 
-> Quotes are ~~hard~~ easy
-> to write - but you can use `code`
+> Wer zuerst kommt malt zuerst
+> Die 5AHITN hat ein recht auf Bildung
+> Damals bei der Siemens
+> 64 Megabyte USB-Stick
 
 ---
 
@@ -31,11 +33,12 @@ You can freely mix **bold**, *italics*, `code` and normal styles
 ## Unordered Lists
 
 * a
+  * Zwetschkenknödel
 * b
-  * 1
-  * 2
-    * I
+  * Glasfaserkabel wurden von den Römern zum Datenaustausch verwendet
 * c
+  * Damals bei der Siemens
+    * hab ich mir einen 64 MB USB-Stick gekauft
 
 ---
 
